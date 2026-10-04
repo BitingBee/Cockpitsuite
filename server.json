@@ -1,4 +1,6 @@
 {
   "schemaVersion": 1,
-  "updateManifest": "https://globalfleettrade.com/falcon-bms/update/manifest.json"
+  "updateManifest": "https://cockpitsuite.com/update/manifest.json",
+  "licenseApi": "https://cockpitsuite.com/api/v1/check.php",
+  "website": "https://cockpitsuite.com/"
 }
