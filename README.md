@@ -1,15 +1,13 @@
-# BMS Live Monitor
+# Cockpit Suite Live Hub – öffentliche Konfiguration
 
-Öffentliche Server-Konfiguration für meine Falcon-BMS-Cockpit-Software.
+Dieses Repository stellt die öffentliche `server.json` für Cockpit Suite Live Hub und die dazugehörigen Clients bereit. Die Datei enthält die Adressen für das Update-Manifest und die Lizenz-API.
 
-Die Datei `server.json` teilt BmsLiveMonitor und BmsDisplayClient mit, unter welcher Adresse das aktuelle Update-Manifest erreichbar ist.
+## Adressen
 
-## Aktuelle Update-Seite
+- Website: https://cockpitsuite.com/
+- Update-Manifest: https://cockpitsuite.com/update/manifest.json
+- Lizenz-API: https://cockpitsuite.com/api/v1/check.php
 
-https://globalfleettrade.com/falcon-bms/
-
-## Hinweis
-
-Dieses Repository enthält keine privaten Netzwerkadressen und keine persönlichen Zugangsdaten.
-
-BmsLiveMonitor unterstützt Falcon BMS 4.38.x
+Die derzeit im Update-Manifest aufgeführten Installer sind die bisherigen Falcon-BMS-Versionen. 
+Cockpit Suite Live Hub 2.0 und weitere Simulator-Anbindungen sind damit nicht als veröffentlichte Versionen ausgewiesen.
+Dieses Repository enthält keine privaten Schlüssel, Seriennummern, Datenbank-Zugangsdaten oder persönlichen Nutzerdaten.
